@@ -15,3 +15,6 @@ Following is a list of top 3 most complained companies each year aggregated from
 5. Equifax
 6. Transunion
 
+## Plot02:
+
+Interestingly, Bank of America shows a significant improvement in their consumer satisfaction. It is imperative to understand the origin of this pattern. In this direction, we first analyze complaints based on various products provided by the financial firms. Product Categorisation for 3 banks are analyzed.
